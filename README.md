@@ -4,7 +4,7 @@ A basic country listing and filtering app with [restcountries API](https://restc
 
 Created with **React** and **Bootstrap**.
 
-## ⮕ [Live preview](https://fatiharapoglu.github.io/country-filter/)
+## ⮕ [Live preview](https://country-filter-list.netlify.app/)
 
 ## Helper Dependencies
 
