@@ -2,8 +2,8 @@ const Header = () => {
     return (
         <header className="navbar">
             <div className="mb-2">
-                <a href="https://www.fintechyazilim.com/" target="_blank" rel="noreferrer">
-                    <img src="/fintech.svg" alt="logo" className="img-fluid" style={{ width: "150px" }} />
+                <a href="https://fatiharapoglu.dev/" target="_blank" rel="noreferrer">
+                    <img src="/logo.png" alt="logo" className="img-fluid" style={{ width: "50px" }} />
                 </a>
                 <span
                     className="fw-light d-inline-block"
@@ -18,7 +18,7 @@ const Header = () => {
                         href="https://www.linkedin.com/in/fatiharapoglu/"
                         target="_blank"
                         rel="noreferrer"
-                        className="nav-link link-primary"
+                        className="nav-link link-dark fw-bold"
                     >
                         LinkedIn
                     </a>
@@ -28,13 +28,18 @@ const Header = () => {
                         href="https://github.com/fatiharapoglu"
                         target="_blank"
                         rel="noreferrer"
-                        className="nav-link link-primary"
+                        className="nav-link link-dark fw-bold"
                     >
                         GitHub
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a href="https://fatiharapoglu.dev" target="_blank" rel="noreferrer" className="nav-link link-primary">
+                    <a
+                        href="https://fatiharapoglu.dev"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="nav-link link-dark fw-bold"
+                    >
                         Portfolio
                     </a>
                 </li>

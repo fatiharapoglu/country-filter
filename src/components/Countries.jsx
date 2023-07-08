@@ -61,10 +61,10 @@ const Countries = () => {
                 <table className="table table-light border table-striped table-hover align-middle mt-1">
                     <thead>
                         <tr>
-                            <th className="text-primary">Name</th>
-                            <th className="text-primary">Capital</th>
-                            <th className="text-primary">Region</th>
-                            <th className="text-primary">Flag</th>
+                            <th>Name</th>
+                            <th>Capital</th>
+                            <th>Region</th>
+                            <th>Flag</th>
                         </tr>
                     </thead>
                     <tbody>
